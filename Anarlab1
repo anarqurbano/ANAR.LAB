@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title> Anar.lab </title>
+</head>
+ <body style="background-color: rgb(103, 206, 247);">
+    <h1 style="background-color: brown;"> Anar Qurbanov </h1>
+    <p> <b> Lorem, ipsum dolor sit amet<pre> consectetur adipisicing elit.</pre> Provident, itaque! </b> </p>
+    <h2> <mark> Xalid </mark> </h2>
+ </body>
+</html>
